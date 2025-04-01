@@ -1,0 +1,22 @@
+.generalData-style-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.generalData-style-table th,
+.generalData-style-table td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+/* #th-amount-id{
+    text-align: right;
+}
+#td-amount-id{
+    text-align: right;
+} */
+
+.generalData-style-table th{
+    background-color: #c9c6c6;
+}

@@ -1,0 +1,31 @@
+.suscriptions-style-table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures borders do not double up */
+}
+
+.suscriptions-style-table th, 
+.suscriptions-style-table td {
+    text-align: center;
+    border: 1px solid black; /* Adds visible borders */
+    padding: 4px;
+}
+
+.suscriptions-style-table th {
+    background-color: #c9c6c6;
+}
+
+.suppliers-style-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.suppliers-style-table th,
+.suppliers-style-table td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.suppliers-style-table th{
+    background-color: #c9c6c6;
+}
