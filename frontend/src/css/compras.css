@@ -1,0 +1,39 @@
+.compras-style-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.compras-style-table th{
+    background-color: #c9c6c6;
+}
+.compras-style-table th,
+.compras-style-table td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+
+}
+
+.summary-style-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.summary-style-table th,
+.summary-style-table td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+.summary-style-table th{
+    background-color: #c9c6c6;
+}
+
+#tr-style-table{
+    background-color: #c9c6c6;
+}
+
+#compras-style-tr{
+    background-color: #c9c6c6;
+}

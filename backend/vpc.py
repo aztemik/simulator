@@ -27,7 +27,6 @@ class vpc:
 
         return pago_usuario, cantidad_mensual
 
-
 # ejecutar programa
 suscription_pricing = 50
 amount_target_users = 10000
@@ -41,4 +40,4 @@ if len(pago_usuario) == len(cantidad_mensual):
         numero = pago_usuario[i]["Número"]
         monto_mensual = cantidad_mensual[i]
         
-        print(f'Porciento: {porcentaje} - Número: {numero} - Cantidad mensual: {monto_mensual}')
+        print(f'Porciento: {porcentaje} - Número: {numero} - Precio suscripcion: {suscription_pricing} - Cantidad mensual: {monto_mensual}')

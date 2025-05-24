@@ -1,0 +1,15 @@
+.ventas-style-table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ventas-style-table th,
+.ventas-style-table td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 4px;
+}
+
+#ventas-style-tr{
+    background-color: #c9c6c6;
+}
